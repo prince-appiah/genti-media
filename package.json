@@ -1,0 +1,10 @@
+{
+  "name": "genti-media",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev:fibonnaci": "nodemon src/fibonacci.js",
+    "dev:duplicate": "nodemon src/duplicate.js"
+  }
+}
